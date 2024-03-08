@@ -1,0 +1,10 @@
+.footer{
+    height: 100px;
+    background-color: blanchedalmond;
+    color: cadetblue;
+    display: flex;
+}
+
+.heading{
+    color: bisque;
+}

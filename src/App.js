@@ -1,11 +1,11 @@
-import './App.css';
+import "./assets/css/frontend.css"
 import Header from './components/frontend/header/Header';
 import Content from './components/frontend/content/Content';
 import Footer from './components/frontend/footer/Footer';
 
 function App() {
   return (
-    <>
+    <div className="main">
       {/** HEADER START HERE  */ }
       <Header headerContent='This is the header' />
       
@@ -14,7 +14,7 @@ function App() {
 
       {/** FOOTER START HERE  */ }
       <Footer />
-    </>
+    </div>
   );
 }
 

@@ -1,0 +1,12 @@
+.contentbody{
+    height: 600px;
+    background-color: lightblue;
+    color: #fff;
+    display: flex;
+}
+
+
+.sidebar{
+    width: 20px;
+    border: 1px solid #000;
+}

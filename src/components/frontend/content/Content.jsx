@@ -5,7 +5,7 @@ function Content() {
   return (
     <>
       <aside className={contentCss.sidebar}>Menu</aside>
-      <div className={contentCss.contentbody}>Lorem ipsum dolor sit amet consectetur adipisicing elit. Unde illo quis distinctio molestias corporis debitis magnam aperiam et itaque hic dolore sed amet, laborum nostrum vero sapiente porro recusandae facere!</div>
+      <div className={contentCss.contentbody}>OLorem ipsum dolor sit amet consectetur adipisicing elit. Unde illo quis distinctio molestias corporis debitis magnam aperiam et itaque hic dolore sed amet, laborum nostrum vero sapiente porro recusandae facere!</div>
     </>
   )
 }
